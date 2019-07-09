@@ -3,7 +3,6 @@ package com.gang.demo.pattern.singleton.task;
 import com.gang.demo.pattern.singleton.Singleton;
 
 import java.util.concurrent.BrokenBarrierException;
-import java.util.concurrent.Callable;
 import java.util.concurrent.CyclicBarrier;
 
 /**

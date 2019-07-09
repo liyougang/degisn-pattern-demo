@@ -1,9 +1,6 @@
 package com.gang.demo.pattern.singleton;
 
 import com.gang.demo.pattern.singleton.task.SingletonLayszTask;
-import com.gang.demo.pattern.singleton.task.SingletonTask;
-
-import java.util.concurrent.CyclicBarrier;
 import java.util.concurrent.Executor;
 import java.util.concurrent.Executors;
 
